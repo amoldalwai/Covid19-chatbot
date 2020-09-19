@@ -1,12 +1,12 @@
 
 # Covid19-chatbot    <img src="https://emojis.slackmojis.com/emojis/images/1579382915/7563/discordbot.png?1579382915"  width="35" height="35" />
 
- A chatbot that answers queries about coronavirus (COVID-19) following videos are tutorials of how to build it using Google Dialog Flow ,including converting FAQ to chatbot ,which can be embedded or integrated  into any website or any other apps such as Telegram.
+ A chatbot that answers queries about coronavirus (COVID-19)  built  using Google Dialog Flow ,through converting FAQ to chatbot ,which can be embedded or integrated  into any website or any other apps such as Telegram.
  
 
 
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/Covid19-chatbot?style=plastic)
+![App Size](https://img.shields.io/github/repo-size/amoldalwai/Covid19-chatbot)
 
 
 ## Demo Link :point_right: [Demo](https://bot.dialogflow.com/e9710653-1268-44eb-bd05-ee45fc52abe6 )
